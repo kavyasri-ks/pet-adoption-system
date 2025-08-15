@@ -35,27 +35,21 @@ Description:
 💻 Getting Started:
 
   Clone the repository:
-  
-    ```
-    git clone https://github.com/yourusername/adoptpaws.git
-    cd adoptpaws
-    ```
+
+    `git clone https://github.com/yourusername/adoptpaws.git
+    `cd adoptpaws
 
   Backend setup:
   
-    ```
-    cd backend
-    npm install
-    npm run dev
-    ```
+    `cd backend
+    `npm install
+    `npm run dev
 
   Frontend setup:
   
-    ```
-    cd ../frontend
-    npm install
-    npm start
-    ```
+    `cd ../frontend
+    `npm install
+    `npm start
 
 📊 Workflow:
 
