@@ -64,9 +64,33 @@ Admin Flow
 Login → Access dashboard.
 View adoption requests → Approve or decline.
 Manage suggested pets → Add or remove pets.
+User Flow:
 
-Data Flow
+Signup/Login → Profile created.
 
-Frontend calls backend APIs → Backend interacts with MongoDB → Responses update frontend UI dynamically.# pet-adoption-system
-AdoptPaws is a MERN full-stack web app for pet adoption, allowing users to browse pets, manage wishlists, request adoptions, and track status, while admins approve requests and manage pets through a secure and interactive dashboard.
+Browse pets → View details.
+
+Add pets to wishlist → Stored per user.
+
+Request adoption → Status tracked in profile.
+
+Admin Flow:
+
+Login → Access dashboard.
+
+View adoption requests → Approve or decline.
+
+Manage suggested pets → Add or remove pets.
+
+Data Flow:
+
+Frontend calls backend APIs → Backend interacts with MongoDB → Responses update frontend UI dynamically.
+
+🏷️ Summary:
+
+MERN full-stack pet adoption app.
+
+Users can browse pets, manage wishlists, request adoptions, and track status.
+
+Admins approve requests and manage pets via secure dashboard.
 
