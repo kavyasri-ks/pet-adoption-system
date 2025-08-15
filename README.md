@@ -34,14 +34,14 @@ Description:
 
 💻 Getting Started:
 
-  -Clone the repository:
+  Clone the repository:
   
     ```
     git clone https://github.com/yourusername/adoptpaws.git
     cd adoptpaws
     ```
 
-  -Backend setup:
+  Backend setup:
   
     ```
     cd backend
@@ -49,7 +49,7 @@ Description:
     npm run dev
     ```
 
-  -Frontend setup:
+  Frontend setup:
   
     ```
     cd ../frontend
