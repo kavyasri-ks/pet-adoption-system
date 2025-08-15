@@ -1,17 +1,16 @@
 🐾 AdoptPaws - Pet Adoption Platform
 
 Description:
-Full-stack MERN web application for pet adoption.
-
-Users can browse pets, add to wishlist, and request adoptions.
-
-Admins can manage adoption requests and suggested pets.
-
-Focus on secure authentication, responsive design, and seamless adoption workflow.
+  -Full-stack MERN web application for pet adoption.
+  -Users can browse pets, add to wishlist, and request adoptions.
+  
+    Admins can manage adoption requests and suggested pets.
+  
+    Focus on secure authentication, responsive design, and seamless adoption workflow.
 
 🚀 Features:
 
-User Authentication – Secure signup/login with JWT and password hashing.
+    User Authentication – Secure signup/login with JWT and password hashing.
 
 Profile Management – Update user info and view adoption history.
 
