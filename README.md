@@ -1,5 +1,5 @@
 🐾 AdoptPaws - Pet Adoption Platform
-
+NOTE: Click "View raw" to download zip folder
 Description:
   -Full-stack MERN web application for pet adoption.
   -Users can browse pets, add to wishlist, and request adoptions.
