@@ -36,7 +36,7 @@ Description:
 
   Clone the repository:
 
-    git clone https://github.com/yourusername/adoptpaws.git
+    git clone https://github.com/kavyasri-ks/adoptpaws.git
     cd adoptpaws
 
   Backend setup:
